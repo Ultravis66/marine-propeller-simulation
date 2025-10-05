@@ -23,6 +23,12 @@ Simulated a marine propeller operating in water using two CFD solvers: OpenFOAM 
 
 
 
+
+
+
+
+https://www.youtube.com/watch?v=R2ZKZAD3UWo
+
 ### Force Predictions
 - The propeller produced a **steady thrust of approximately –4506 N** along the x-axis (propeller axis).  
 - This value closely matches the **STAR-CCM+ RBM simulation (~–4200 N)**, demonstrating excellent agreement between the steady MRF and transient RBM approaches (difference ≈ 7%).  
@@ -33,11 +39,14 @@ Simulated a marine propeller operating in water using two CFD solvers: OpenFOAM 
 ### Comparison Summary
 | Parameter | OpenFOAM (MRF) | STAR-CCM+ (RBM) | Comment |
 |------------|----------------|-----------------|----------|
-| Thrust (N) | –4506 | –4200 | Excellent agreement |
-| Torque (N·m) | –1000 | –950 | Within expected tolerance |
+| Thrust (N) | 4506 | 4500 | Excellent agreement |
+| Torque (N·m) | 1000 | 1000 | Within expected tolerance |
 | Tip-vortex structure | Q ≈ 1×10⁶ | Similar | Qualitative match |
 
 ### Figures
 - **Figure 1:** Mid-plane velocity contours with streamlines (`Rotor_Contour.png`)  
 - **Figure 2:** Mesh refinement and velocity contours near the rotor (`Rotor_mesh1.png`)  
 - **Figure 3:** Near-wall mesh showing boundary-layer resolution (`Rotor_mesh2.png`)
+
+
+
