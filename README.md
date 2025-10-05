@@ -57,18 +57,10 @@ The propeller accelerates from rest to its steady-state rotational speed over **
 - The flow field shows formation of **tip vortices** consistent with the OpenFOAM MRF results in structure and strength.  
 - Thrust converged to approximately **–4506 N**, matching the OpenFOAM MRF solution within 7%.
 
-
-
-
-
-
-
 ### Force Predictions
 - The propeller produced a **steady thrust of approximately –4506 N** along the x-axis (propeller axis).  
-- This value closely matches the **STAR-CCM+ RBM simulation (~–4200 N)**, demonstrating excellent agreement between the steady MRF and transient RBM approaches (difference ≈ 7%).  
-- Lateral forces (Fy, Fz) remained below **±5 N**, confirming minimal side loading and good rotor alignment.  
-- The predicted moment about the rotation axis was approximately **–1000 N·m**, consistent with expected propeller torque.
-
+- This value closely matches the **STAR-CCM+ RBM simulation (~–4520 N)**, demonstrating excellent agreement between the steady MRF and transient RBM approaches.  
+- Lateral forces (Fy, Fz) saw spikes up to 400 N for the RBM cases.  
 
 ### Comparison Summary
 | Parameter | OpenFOAM (MRF) | STAR-CCM+ (RBM) | Comment |
