@@ -74,13 +74,8 @@ The propeller accelerates from rest to its steady-state rotational speed over **
 | Parameter | OpenFOAM (MRF) | STAR-CCM+ (RBM) | Comment |
 |------------|----------------|-----------------|----------|
 | Thrust (N) | 4506 | 4520 | Excellent agreement |
-| Torque (N·m) | ~735 |
 | Tip-vortex structure | Q ≈ 1×10⁶ | Similar | Qualitative match |
-
-### Figures
-- **Figure 1:** Mid-plane velocity contours with streamlines (`Rotor_Contour.png`)  
-- **Figure 2:** Mesh refinement and velocity contours near the rotor (`Rotor_mesh1.png`)  
-- **Figure 3:** Near-wall mesh showing boundary-layer resolution (`Rotor_mesh2.png`)
+Torque (N·m) | ~735 for both simulations
 
 
 
