@@ -7,9 +7,7 @@ Simulated a marine propeller operating in water using two CFD solvers: OpenFOAM 
 
 -Medium: Water, ρ: 1000 kg/m3
 
--D=0.72m (diameter)
-
--radius R=0.36 m
+-D=0.72 m (diameter) (radius R=0.36 m)
 
 ### Velocity Contours and Streamlines
 ![Rotor Velocity Contours](Rotor_Contour.png)
