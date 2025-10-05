@@ -45,8 +45,8 @@ The propeller accelerates from rest to its steady-state rotational speed over **
 - **Figure 1:** Rotor and overset interface with velocity contours (`Star_Mesh1.png`)  
 - **Figure 2:** Near-wall region showing resolved prism-layer mesh (`Star_Mesh2.png`)
 
-![Rotor and Overset Mesh](figures/Star_Mesh1.png)
-![Near-Wall Mesh Detail](figures/Star_Mesh2.png)
+![Rotor and Overset Mesh](Star_Mesh1.png)
+![Near-Wall Mesh Detail](Star_Mesh2.png)
 
 [Watch the transient startup (0–2.35 s) on YouTube](https://www.youtube.com/watch?v=R2ZKZAD3UWo)
 ---
