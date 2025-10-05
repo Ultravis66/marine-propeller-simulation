@@ -78,6 +78,11 @@ The propeller accelerates from rest to its steady-state rotational speed over **
 | Tip-vortex structure | Q ≈ 1×10⁶ | Similar | Qualitative match |
 Torque (N·m) | ~735 for both simulations
 
+Vtip​=ωR=42×0.36=15.12m/s
+Advance ratio J≈0.42
+CT​=ρn2D4T​,n=2πω​
+Ct = 0.375 (thrust coefficient)
+
 ### Rotor Simulation
 [![Rotor Simulation — STAR-CCM+](https://img.youtube.com/vi/R2ZKZAD3UWo/hqdefault.jpg)](https://www.youtube.com/watch?v=R2ZKZAD3UWo "Play on YouTube")
 
