@@ -69,5 +69,8 @@ The propeller accelerates from rest to its steady-state rotational speed over **
 | Tip-vortex structure | Q ≈ 1×10⁶ | Similar | Qualitative match |
 Torque (N·m) | ~735 for both simulations
 
+### Rotor Simulation
+[![Rotor Simulation — STAR-CCM+](https://img.youtube.com/vi/R2ZKZAD3UWo/hqdefault.jpg)](https://www.youtube.com/watch?v=R2ZKZAD3UWo "Play on YouTube")
+
 
 
