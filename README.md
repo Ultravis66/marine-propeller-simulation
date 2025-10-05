@@ -1,5 +1,8 @@
 # marine-propeller-simulation
 Simulated a marine propeller operating in water using two CFD solvers: OpenFOAM (MRF approach) and STAR-CCM+ (Rigid Body Motion)..
+Free stream conditions: 2 m/s inlet
+Spin rate of the Propeller: 42 rad/s
+Medium: Water, ρ: 1000 kg/m3
 
 ### Velocity Contours and Streamlines
 ![Rotor Velocity Contours](Rotor_Contour.png)
