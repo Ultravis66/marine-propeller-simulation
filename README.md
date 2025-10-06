@@ -20,7 +20,6 @@ Simulated a marine propeller operating in water using two CFD solvers: OpenFOAM 
 
 ### Mesh Setup
 - Base mesh generated with **snappyHexMesh**.
-- Local refinement around the propeller up to **level 5**.
 - **8 prism layers** extruded on the rotor surface with an expansion ratio of **1.2**
 - Estimated first cell height ≈ **4×10⁻⁵ m** (y⁺ ≈ 1–5 in water).
 - Note: The boundary layer resolution represents the best achievable configuration in SnappyHexMesh before layer generation failed. Some regions of the mesh fall within the log-law region.
