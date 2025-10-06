@@ -62,11 +62,10 @@ The propeller is given ansteady-state rotational speed over **2.35 seconds**, ca
 ### Key Notes
 - The simulation used the **Segregated Flow Solver** with **k–ω SST turbulence model**.  
 - The overset region (rotor) was allowed to rotate freely via RBM, accurately capturing transient wake development.  
-- The flow field shows formation of **tip vortices** consistent with the OpenFOAM MRF results in structure and strength.  
-- Thrust converged to approximately **–4506 N**, matching the OpenFOAM MRF solution within 7%.
+- Thrust converged to approximately **–4520 N**, closley matching the OpenFOAM MRF solution.
 
 ### Force Predictions
-- The propeller produced a **steady thrust of approximately –4506 N** along the x-axis (propeller axis).  
+- in **OpenFOAM The propeller produced a **steady thrust of approximately –4506 N** along the x-axis (propeller axis).  
 - This value closely matches the **STAR-CCM+ RBM simulation (~–4520 N)**, demonstrating excellent agreement between the steady MRF and transient RBM approaches.  
 - Lateral forces (Fy, Fz) saw spikes up to 400 N for the RBM cases.  
 
