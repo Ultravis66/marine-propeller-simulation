@@ -33,7 +33,7 @@ Simulated a marine propeller operating in water using two CFD solvers: OpenFOAM 
 
 ### Overview
 This simulation models the **transient startup of a marine propeller in water** using the **Rigid Body Motion (RBM)** approach in STAR-CCM+.  
-The propeller accelerates from rest to its steady-state rotational speed over **2.35 seconds**, capturing the unsteady wake development and vortex roll-up behind the blades.
+The propeller is given ansteady-state rotational speed over **2.35 seconds**, capturing the unsteady wake development and vortex roll-up behind the blades.
 
 ---
 
