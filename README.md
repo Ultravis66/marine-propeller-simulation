@@ -43,8 +43,8 @@ The propeller is given ansteady-state rotational speed over **2.35 seconds**, ca
 - **Number of prism layers:** 14  
 - **First-layer thickness:** 1×10⁻⁵ m
 - **Overset mesh configuration:**
-  - *Background (FV, index 1):* 4,225,216 cells, 12,719,880 faces, 4,320,671 vertices  
-  - *Rotor region (index 2):* 4,103,849 cells, 12,203,558 faces, 4,161,858 vertices  
+  - *Background mesh * 4,225,216 cells
+  - *Rotor region * 4,103,849 cells
 - Total mesh size: **~8.3 million cells**
 
 ---
