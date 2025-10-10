@@ -81,7 +81,7 @@ Advance ratio J≈0.42
 CT​=ρn2D4T​,n=2πω​
 Ct = 0.375 (thrust coefficient)
 
-### Rotor Simulation
+### Rotor Simulation (click to see video)
 [![Rotor Simulation — STAR-CCM+](https://img.youtube.com/vi/R2ZKZAD3UWo/hqdefault.jpg)](https://www.youtube.com/watch?v=R2ZKZAD3UWo "Play on YouTube")
 
 
