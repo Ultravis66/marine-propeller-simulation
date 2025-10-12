@@ -56,7 +56,6 @@ The propeller is given a steady-state rotational speed over **2.35 seconds**, ca
 ![Rotor and Overset Mesh](Star_Mesh1.png)
 ![Near-Wall Mesh Detail](Star_Mesh2.png)
 
-[Watch the transient startup (0–2.35 s) on YouTube](https://www.youtube.com/watch?v=R2ZKZAD3UWo)
 ---
 
 ### Key Notes
